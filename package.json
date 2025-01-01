@@ -1,5 +1,5 @@
 {
-  "name": "wori_app_backend",
+  "name": "wori_app_backend_node",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
